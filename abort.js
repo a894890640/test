@@ -1,4 +1,4 @@
-var Buffer = require('buffer').Buffer
+var Buffer = require('buffer444').Buffer
 var fs = require('fs')
 var test = require('tape')
 

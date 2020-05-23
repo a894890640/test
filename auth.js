@@ -1,4 +1,4 @@
-var Buffer = require('buffer').Buffer
+var Buffer = require('buffer001').Buffer
 var test = require('tape')
 
 var http = require('../..')
